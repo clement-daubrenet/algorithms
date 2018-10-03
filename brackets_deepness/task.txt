@@ -1,7 +1,8 @@
-Question 1: Write an algorithm able to extract the maximum level of recursion of a string with brackets.
+Question 1: Write an algorithm able to extract the maximum level of recursion of a string with parenthesis. 
+Assume that each opening parenthesis has a closing one.
 
 Examples: 
-'{dsadsa}' is 1
-'{ioio{ewqkoe{sffd}q}}' is 3
+'(dsadsa)' is 1
+'(ioio(ewqkoe(sffd)q))' is 3
 
 Question 2: Find the position of the closing bracket for a given opening bracket.
