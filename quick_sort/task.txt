@@ -1,0 +1,3 @@
+Question 1: Implement quick sort with Lomuto scheme
+Question 2: Implement  Quick sort with Hoare
+Question 3: Explicit explanations of the algorithms with detailed calculations for space complexity and time complexity
