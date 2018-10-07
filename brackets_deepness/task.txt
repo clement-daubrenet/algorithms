@@ -1,4 +1,5 @@
 Question 1: Write an algorithm able to extract the maximum level of recursion of a string with parenthesis.
+Assume that each opening parenthesis has a closing one.
 
 Examples: 
 '(dsadsa)' is 1
