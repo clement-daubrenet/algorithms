@@ -1,0 +1,2 @@
+Write a function to merge two strings together.
+e.g: '1111' + '000000' gives '1010101000'
